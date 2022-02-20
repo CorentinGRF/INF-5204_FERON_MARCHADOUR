@@ -13,13 +13,10 @@ Commande pour exécuté :
 
 
 Controle :
-
 * Z : Avancer 
 * Q : Aller vers la gauche
 * S : Reculer
 * D : Aller vers la gauche
-
-
 * I : Tourner vers le haut
 * J : Tourner vers la gauche
 * K : Tourner vers le bas
