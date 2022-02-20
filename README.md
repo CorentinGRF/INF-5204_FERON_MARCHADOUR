@@ -4,7 +4,7 @@ Nous avons utilisé SDL2 car nous n'arrivions pas à le faire fonctionné avec S
 
 Commande pour exécuté : 
 * Allez dans lez doissier ou se situe le dossier du projet.
-* Creez un dossier build
+* Créez un dossier build
 * Allez dans le dossier build
 * exécutez `cmake ../[nom du dossier du projet]`
 * exécutez `make`
