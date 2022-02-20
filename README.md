@@ -2,7 +2,7 @@
 
 Nous avons utilisé SDL2 car nous n'arrivions pas à le faire fonctionné avec SDL1.
 
-Commande pour exécuté : 
+Commande pour exécuter le projet : 
 * Allez dans lez doissier ou se situe le dossier du projet.
 * Créez un dossier build
 * Allez dans le dossier build
