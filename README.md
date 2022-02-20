@@ -15,7 +15,7 @@ Contrôles :
   * Z : Avancer 
   * Q : Aller vers la gauche
   * S : Reculer
-  * D : Aller vers la gauche
+  * D : Aller vers la Droite
 * Rotation :
   * I : Tourner vers le haut
   * J : Tourner vers la gauche
